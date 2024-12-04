@@ -6,7 +6,7 @@
 - 🔍 Currently looking for opportunities to gain practical experience through internships.
 ---
 #**🛠 Soft Skills:**
-- Problem-Solving: Basic to intermediate level in problem-solving.
+- Problem-Solving & Errors: Basic to intermediate level in problem-solving and errors.
 ---
 #**📜 Certifications
 - ADSP(Advance Diploma in Software Programming) Course| Disha Computer Institute**
