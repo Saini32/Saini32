@@ -11,9 +11,6 @@
 #**📜 Certifications
 - ADSP(Advance Diploma in Software Programming) Course| Disha Computer Institute**
 ---
-#**🎯 Goals:**
-- Gain hands-on experience through real-world projects and internships.
----
 #**📫 How to Reach Me:**
 - Email: smourya5239@gmail.com
 ---
